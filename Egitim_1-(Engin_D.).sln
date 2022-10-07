@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders1_1(if-else-giris)", "E_ders1\ders1_1(if-else-giris).csproj", "{21D88F9E-2821-4C5B-8EB2-42A441AF9F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders2_odev6_1(foreach)", "ders2_odev6_1\ders2_odev6_1(foreach).csproj", "{CF637D49-0B8B-47F0-8240-787F543840CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders2_odev6_2(for)", "ders2_odev6_2\ders2_odev6_2(for).csproj", "{AD8FDA98-1957-4D97-83FC-7C26417D1994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders2_odev6_3(while)", "ders2_odev6_2(while)\ders2_odev6_3(while).csproj", "{4E1230B7-508B-4FD6-92C9-6DAAF8B7B103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders3_1(Metotlar)", "ders3_1\ders3_1(Metotlar).csproj", "{CE4C2988-5FCD-403E-AF81-0067C6AA51C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders3_2(Metotlar(Matematik))", "ders3_2(Metotlar)\ders3_2(Metotlar(Matematik)).csproj", "{A7B78B21-F8B7-4F37-BEED-6D24C6479DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders3_3(deger_ve_referans_tipler)", "ders3_3(deger_ve_referans_tipler)\ders3_3(deger_ve_referans_tipler).csproj", "{39BBE17E-8599-4FA9-A82A-D3F8A6F2B4E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D88F9E-2821-4C5B-8EB2-42A441AF9F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D88F9E-2821-4C5B-8EB2-42A441AF9F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D88F9E-2821-4C5B-8EB2-42A441AF9F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D88F9E-2821-4C5B-8EB2-42A441AF9F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF637D49-0B8B-47F0-8240-787F543840CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF637D49-0B8B-47F0-8240-787F543840CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF637D49-0B8B-47F0-8240-787F543840CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF637D49-0B8B-47F0-8240-787F543840CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8FDA98-1957-4D97-83FC-7C26417D1994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8FDA98-1957-4D97-83FC-7C26417D1994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8FDA98-1957-4D97-83FC-7C26417D1994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8FDA98-1957-4D97-83FC-7C26417D1994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1230B7-508B-4FD6-92C9-6DAAF8B7B103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1230B7-508B-4FD6-92C9-6DAAF8B7B103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1230B7-508B-4FD6-92C9-6DAAF8B7B103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1230B7-508B-4FD6-92C9-6DAAF8B7B103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4C2988-5FCD-403E-AF81-0067C6AA51C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4C2988-5FCD-403E-AF81-0067C6AA51C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4C2988-5FCD-403E-AF81-0067C6AA51C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4C2988-5FCD-403E-AF81-0067C6AA51C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B78B21-F8B7-4F37-BEED-6D24C6479DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B78B21-F8B7-4F37-BEED-6D24C6479DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B78B21-F8B7-4F37-BEED-6D24C6479DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B78B21-F8B7-4F37-BEED-6D24C6479DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BBE17E-8599-4FA9-A82A-D3F8A6F2B4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BBE17E-8599-4FA9-A82A-D3F8A6F2B4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BBE17E-8599-4FA9-A82A-D3F8A6F2B4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BBE17E-8599-4FA9-A82A-D3F8A6F2B4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B7EE3F-93E6-432E-9ABA-297D35CB9304}
+	EndGlobalSection
+EndGlobal
